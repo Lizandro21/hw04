@@ -10,9 +10,9 @@ The leaderboard is responsive and shows the top 5 scores that you got, pushing d
 ---
 Here are some pictures! 
 ![Screenshot1](https://i.postimg.cc/fbwbmGtc/picture-1.png)
-![Screenshot2]()
-![Screenshot3]()
-![Screenshot4]()
+![Screenshot2](https://i.postimg.cc/HLZ7xYZc/picture-2.png)
+![Screenshot3](https://i.postimg.cc/CMffhVj5/picture-3.png)
+![Screenshot4](https://i.postimg.cc/d0xLFW3G/picture-4.png)
 ---
 [Java Script Quiz!](https://lizandro21.github.io/hw04/)
 
