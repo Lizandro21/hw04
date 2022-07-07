@@ -1,0 +1,53 @@
+.choice-container {
+    display: flex;
+    border: 0.1rem solid chocolate;
+    background-color: aliceblue;
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    
+}
+
+.choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: rgb(255, 140, 0);
+    color: beige;
+}
+
+.choice-text {
+    padding: 1.5rem;
+    width: 100%;
+}
+
+.choice-container:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 chocolate;
+    cursor: pointer;
+    transition: transform 150ms;
+
+}
+
+.correct {
+
+    background-color: rgb(85, 227, 75);
+}
+
+.incorrect {
+
+    background-color: red;
+}
+
+#hud {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.hud-prefix {
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(255, 140, 0);
+}
+
+.hud-main-text {
+    text-align: center;
+}
